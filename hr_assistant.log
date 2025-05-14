@@ -363,3 +363,9 @@
 {"time": "2025-05-14 13:49:53,171", "level": "INFO", "message": "Processing transcript: offline head office"}
 {"time": "2025-05-14 13:49:53,171", "level": "INFO", "message": "Connecting to database..."}
 {"time": "2025-05-14 13:49:53,172", "level": "INFO", "message": "Connected to MySQL"}
+2025-05-14 14:09:57,094 - Database tables ensured.
+2025-05-14 14:09:57,110 - MySQL Server Version: 8.0.42
+2025-05-14 14:09:57,632 - Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-05-14 14:09:57,632 - Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'
+2025-05-14 14:09:57,802 - HR Assistant response: Hello, I'm Emma, your HR assistant at Regex Software. How can I assist you today?
+2025-05-14 14:10:06,291 - Shutting down HR Assistant
