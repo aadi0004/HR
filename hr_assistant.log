@@ -1,0 +1,365 @@
+{"time": "2025-05-14 12:45:50,856", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:45:51,020", "level": "INFO", "message": "Database tables ensured (mysql)"}
+{"time": "2025-05-14 12:45:54,048", "level": "INFO", "message": "Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>"}
+{"time": "2025-05-14 12:45:54,051", "level": "INFO", "message": "Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'"}
+{"time": "2025-05-14 12:45:58,212", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmp00syps7e.mp3" alias playsound_0.2681823972320022
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:46:07,909", "level": "ERROR", "message": "Code capture error: listening timed out while waiting for phrase to start"}
+{"time": "2025-05-14 12:46:08,680", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmp32blhain.mp3" alias playsound_0.1466613921685882
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:46:24,746", "level": "INFO", "message": "Raw code input: new news live"}
+{"time": "2025-05-14 12:46:35,285", "level": "INFO", "message": "Raw code input: new user"}
+{"time": "2025-05-14 12:46:35,623", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmpnj9x3rqm.mp3" alias playsound_0.1550846758561174
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:46:46,532", "level": "ERROR", "message": "Name capture error: "}
+{"time": "2025-05-14 12:46:47,519", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmpjqoj3gfn.mp3" alias playsound_0.875868748059693
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:47:00,414", "level": "ERROR", "message": "Name capture error: listening timed out while waiting for phrase to start"}
+{"time": "2025-05-14 12:47:12,864", "level": "ERROR", "message": "Name capture error: listening timed out while waiting for phrase to start"}
+{"time": "2025-05-14 12:47:12,865", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:47:13,444", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmp4qiw897o.mp3" alias playsound_0.3174426816429915
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:47:18,924", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmpdw34z408.mp3" alias playsound_0.8909506769598655
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:47:28,669", "level": "ERROR", "message": "Phone capture error: listening timed out while waiting for phrase to start"}
+{"time": "2025-05-14 12:47:29,361", "level": "ERROR", "message": "Audio generation error: 
+    Error 277 for command:
+        open "C:\Users\HP\AppData\Local\Temp\tmpya52qjfh.mp3" alias playsound_0.7123241251664086
+    A problem occurred in initializing MCI."}
+{"time": "2025-05-14 12:53:55,158", "level": "INFO", "message": "Loading environment variables..."}
+{"time": "2025-05-14 12:53:55,194", "level": "INFO", "message": "MySQL pool initialized"}
+{"time": "2025-05-14 12:53:55,194", "level": "INFO", "message": "Starting HR Assistant..."}
+{"time": "2025-05-14 12:53:55,194", "level": "INFO", "message": "Creating database tables..."}
+{"time": "2025-05-14 12:53:55,194", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 12:53:55,194", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:53:55,217", "level": "INFO", "message": "Database tables ensured (mysql)"}
+{"time": "2025-05-14 12:53:55,217", "level": "INFO", "message": "Tables created, initializing assistant..."}
+{"time": "2025-05-14 12:53:55,217", "level": "INFO", "message": "Initializing HR_Assistant..."}
+{"time": "2025-05-14 12:53:55,537", "level": "INFO", "message": "Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>"}
+{"time": "2025-05-14 12:53:55,537", "level": "INFO", "message": "Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'"}
+{"time": "2025-05-14 12:53:55,753", "level": "INFO", "message": "HR_Assistant initialized successfully"}
+{"time": "2025-05-14 12:53:55,753", "level": "INFO", "message": "Assistant initialized, starting transcription..."}
+{"time": "2025-05-14 12:53:55,753", "level": "INFO", "message": "Getting employee details..."}
+{"time": "2025-05-14 12:53:58,696", "level": "ERROR", "message": "Audio generation error: No such file or directory: 'C:\Users\HP\AppData\Local\Temp\tmp9jiedi16.mp3'."}
+{"time": "2025-05-14 12:54:09,039", "level": "ERROR", "message": "Name capture error: "}
+{"time": "2025-05-14 12:54:09,314", "level": "ERROR", "message": "Audio generation error: No such file or directory: 'C:\Users\HP\AppData\Local\Temp\tmpjpufs0lv.mp3'."}
+{"time": "2025-05-14 12:54:21,464", "level": "ERROR", "message": "Name capture error: "}
+{"time": "2025-05-14 12:54:33,404", "level": "INFO", "message": "Raw name input: escape"}
+{"time": "2025-05-14 12:54:33,405", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 12:54:33,406", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:54:33,818", "level": "ERROR", "message": "Audio generation error: No such file or directory: 'C:\Users\HP\AppData\Local\Temp\tmptffyh6uc.mp3'."}
+{"time": "2025-05-14 12:58:54,561", "level": "INFO", "message": "Loading environment variables..."}
+{"time": "2025-05-14 12:58:54,608", "level": "INFO", "message": "MySQL pool initialized"}
+{"time": "2025-05-14 12:58:54,608", "level": "INFO", "message": "Starting HR Assistant..."}
+{"time": "2025-05-14 12:58:54,608", "level": "INFO", "message": "Creating database tables..."}
+{"time": "2025-05-14 12:58:54,608", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 12:58:54,608", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:58:54,679", "level": "INFO", "message": "Database tables ensured (mysql)"}
+{"time": "2025-05-14 12:58:54,679", "level": "INFO", "message": "Tables created, initializing assistant..."}
+{"time": "2025-05-14 12:58:54,679", "level": "INFO", "message": "Initializing HR_Assistant..."}
+{"time": "2025-05-14 12:58:55,074", "level": "INFO", "message": "Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>"}
+{"time": "2025-05-14 12:58:55,074", "level": "INFO", "message": "Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'"}
+{"time": "2025-05-14 12:58:56,504", "level": "INFO", "message": "HR_Assistant initialized successfully"}
+{"time": "2025-05-14 12:58:56,505", "level": "INFO", "message": "Assistant initialized, starting transcription..."}
+{"time": "2025-05-14 12:58:56,505", "level": "INFO", "message": "Getting employee details..."}
+{"time": "2025-05-14 12:58:58,908", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_694c1b28d24840469ab5672eabadaac9.mp3"}
+{"time": "2025-05-14 12:58:59,945", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_694c1b28d24840469ab5672eabadaac9.mp3 saved successfully"}
+{"time": "2025-05-14 12:59:03,090", "level": "WARNING", "message": "Error removing temporary file C:\Users\HP\AppData\Local\Temp\hr_assistant_694c1b28d24840469ab5672eabadaac9.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_694c1b28d24840469ab5672eabadaac9.mp3'"}
+{"time": "2025-05-14 12:59:09,673", "level": "INFO", "message": "Raw name input: escape"}
+{"time": "2025-05-14 12:59:09,674", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 12:59:09,676", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:59:09,681", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_ddf3b6396ed3402d93b5bf7ece9909bb.mp3"}
+{"time": "2025-05-14 12:59:10,608", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_ddf3b6396ed3402d93b5bf7ece9909bb.mp3 saved successfully"}
+{"time": "2025-05-14 12:59:14,654", "level": "WARNING", "message": "Error removing temporary file C:\Users\HP\AppData\Local\Temp\hr_assistant_ddf3b6396ed3402d93b5bf7ece9909bb.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ddf3b6396ed3402d93b5bf7ece9909bb.mp3'"}
+{"time": "2025-05-14 12:59:20,648", "level": "INFO", "message": "Raw phone input: escape"}
+{"time": "2025-05-14 12:59:35,061", "level": "INFO", "message": "Raw phone input: escape"}
+{"time": "2025-05-14 12:59:51,563", "level": "INFO", "message": "Raw phone input: 961035 3414"}
+{"time": "2025-05-14 12:59:51,565", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 12:59:51,566", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 12:59:51,620", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_e7efe971ed63402cb281defccd05dd43.mp3"}
+{"time": "2025-05-14 12:59:52,618", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_e7efe971ed63402cb281defccd05dd43.mp3 saved successfully"}
+{"time": "2025-05-14 12:59:56,690", "level": "WARNING", "message": "Error removing temporary file C:\Users\HP\AppData\Local\Temp\hr_assistant_e7efe971ed63402cb281defccd05dd43.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_e7efe971ed63402cb281defccd05dd43.mp3'"}
+{"time": "2025-05-14 12:59:56,830", "level": "INFO", "message": "Starting transcription..."}
+{"time": "2025-05-14 12:59:59,407", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:00:05,792", "level": "INFO", "message": "Transcript: I want to schedule a counselling session"}
+{"time": "2025-05-14 13:00:05,793", "level": "INFO", "message": "Processing transcript: I want to schedule a counselling session"}
+{"time": "2025-05-14 13:00:05,794", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:00:05,795", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:00:05,845", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_51c27af60e57463e92d7f3a92c693d6d.mp3"}
+{"time": "2025-05-14 13:00:08,050", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_51c27af60e57463e92d7f3a92c693d6d.mp3 saved successfully"}
+{"time": "2025-05-14 13:00:19,272", "level": "WARNING", "message": "Error removing temporary file C:\Users\HP\AppData\Local\Temp\hr_assistant_51c27af60e57463e92d7f3a92c693d6d.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_51c27af60e57463e92d7f3a92c693d6d.mp3'"}
+{"time": "2025-05-14 13:00:19,273", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:00:19,275", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:00:19,286", "level": "INFO", "message": "Saved interaction for employee ID 2"}
+{"time": "2025-05-14 13:00:19,289", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:00:29,651", "level": "INFO", "message": "Transcript: available courses"}
+{"time": "2025-05-14 13:00:29,656", "level": "INFO", "message": "Processing transcript: available courses"}
+{"time": "2025-05-14 13:00:29,657", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_a1451135d1e9413b8d6ef8cee8e118f4.mp3"}
+{"time": "2025-05-14 13:00:30,837", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_a1451135d1e9413b8d6ef8cee8e118f4.mp3 saved successfully"}
+{"time": "2025-05-14 13:00:40,353", "level": "WARNING", "message": "Error removing temporary file C:\Users\HP\AppData\Local\Temp\hr_assistant_a1451135d1e9413b8d6ef8cee8e118f4.mp3: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_a1451135d1e9413b8d6ef8cee8e118f4.mp3'"}
+{"time": "2025-05-14 13:00:40,355", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:00:40,359", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:00:40,412", "level": "INFO", "message": "Saved interaction for employee ID 2"}
+{"time": "2025-05-14 13:00:40,417", "level": "INFO", "message": "Used cached response: course"}
+{"time": "2025-05-14 13:00:40,418", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:00:52,488", "level": "INFO", "message": "Transcript: I want to take admission to suggest me which sports will be good for me"}
+{"time": "2025-05-14 13:00:52,493", "level": "INFO", "message": "Processing transcript: I want to take admission to suggest me which sports will be good for me"}
+{"time": "2025-05-14 13:00:52,494", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:00:52,497", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:08:40,468", "level": "INFO", "message": "Loading environment variables..."}
+{"time": "2025-05-14 13:08:40,532", "level": "INFO", "message": "MySQL pool initialized"}
+{"time": "2025-05-14 13:08:40,532", "level": "INFO", "message": "Starting HR Assistant..."}
+{"time": "2025-05-14 13:08:40,532", "level": "INFO", "message": "Creating database tables..."}
+{"time": "2025-05-14 13:08:40,532", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:08:40,532", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:08:40,629", "level": "INFO", "message": "Database tables ensured (mysql)"}
+{"time": "2025-05-14 13:08:40,645", "level": "INFO", "message": "Tables created, initializing assistant..."}
+{"time": "2025-05-14 13:08:40,645", "level": "INFO", "message": "Initializing HR_Assistant..."}
+{"time": "2025-05-14 13:08:41,077", "level": "INFO", "message": "Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>"}
+{"time": "2025-05-14 13:08:41,077", "level": "INFO", "message": "Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'"}
+{"time": "2025-05-14 13:08:42,516", "level": "INFO", "message": "HR_Assistant initialized successfully"}
+{"time": "2025-05-14 13:08:42,517", "level": "INFO", "message": "Assistant initialized, starting transcription..."}
+{"time": "2025-05-14 13:08:42,517", "level": "INFO", "message": "Getting employee details..."}
+{"time": "2025-05-14 13:08:45,030", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_c369a48408644577877fd4451302bc79.mp3"}
+{"time": "2025-05-14 13:08:46,107", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_c369a48408644577877fd4451302bc79.mp3 saved successfully"}
+{"time": "2025-05-14 13:08:49,245", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_c369a48408644577877fd4451302bc79.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_c369a48408644577877fd4451302bc79.mp3'"}
+{"time": "2025-05-14 13:08:49,746", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_c369a48408644577877fd4451302bc79.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_c369a48408644577877fd4451302bc79.mp3'"}
+{"time": "2025-05-14 13:08:50,247", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_c369a48408644577877fd4451302bc79.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_c369a48408644577877fd4451302bc79.mp3'"}
+{"time": "2025-05-14 13:08:55,720", "level": "ERROR", "message": "Name capture error: "}
+{"time": "2025-05-14 13:08:55,720", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3"}
+{"time": "2025-05-14 13:08:56,851", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3 saved successfully"}
+{"time": "2025-05-14 13:09:01,188", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3'"}
+{"time": "2025-05-14 13:09:01,690", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3'"}
+{"time": "2025-05-14 13:09:02,191", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ef645e37fd4e4243822fc7cca5386ab9.mp3'"}
+{"time": "2025-05-14 13:09:09,852", "level": "INFO", "message": "Raw name input: my name is aditya"}
+{"time": "2025-05-14 13:09:09,853", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:09:09,854", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:09:09,908", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3"}
+{"time": "2025-05-14 13:09:10,788", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3 saved successfully"}
+{"time": "2025-05-14 13:09:14,833", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3'"}
+{"time": "2025-05-14 13:09:15,333", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3'"}
+{"time": "2025-05-14 13:09:15,835", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_a599545db6454e7bb300291ca0a5d429.mp3'"}
+{"time": "2025-05-14 13:09:26,751", "level": "INFO", "message": "Raw phone input: 961035 3414"}
+{"time": "2025-05-14 13:09:26,752", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:09:26,755", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:09:26,818", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_ec3108a14928498ea210b029440a019e.mp3"}
+{"time": "2025-05-14 13:09:27,813", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_ec3108a14928498ea210b029440a019e.mp3 saved successfully"}
+{"time": "2025-05-14 13:09:31,997", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_ec3108a14928498ea210b029440a019e.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ec3108a14928498ea210b029440a019e.mp3'"}
+{"time": "2025-05-14 13:09:32,500", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_ec3108a14928498ea210b029440a019e.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ec3108a14928498ea210b029440a019e.mp3'"}
+{"time": "2025-05-14 13:09:33,007", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_ec3108a14928498ea210b029440a019e.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_ec3108a14928498ea210b029440a019e.mp3'"}
+{"time": "2025-05-14 13:09:33,663", "level": "INFO", "message": "Starting transcription..."}
+{"time": "2025-05-14 13:09:36,309", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:09:44,348", "level": "ERROR", "message": "Transcription error: "}
+{"time": "2025-05-14 13:09:44,348", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:10:03,204", "level": "INFO", "message": "Transcript: counselling session"}
+{"time": "2025-05-14 13:10:03,205", "level": "INFO", "message": "Processing transcript: counselling session"}
+{"time": "2025-05-14 13:10:03,205", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:10:03,206", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:10:05,673", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3"}
+{"time": "2025-05-14 13:10:06,893", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3 saved successfully"}
+{"time": "2025-05-14 13:10:12,145", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3'"}
+{"time": "2025-05-14 13:10:12,648", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3'"}
+{"time": "2025-05-14 13:10:13,150", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_96d6c8774f4442cda2aa4a376bf4d98e.mp3'"}
+{"time": "2025-05-14 13:10:13,651", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:10:13,654", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:10:13,709", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:10:13,717", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:10:26,755", "level": "INFO", "message": "Transcript: I have course in mind data science"}
+{"time": "2025-05-14 13:10:26,758", "level": "INFO", "message": "Processing transcript: I have course in mind data science"}
+{"time": "2025-05-14 13:10:26,759", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:10:26,763", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:10:27,575", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3"}
+{"time": "2025-05-14 13:10:28,746", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3 saved successfully"}
+{"time": "2025-05-14 13:10:35,420", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3'"}
+{"time": "2025-05-14 13:10:35,923", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3'"}
+{"time": "2025-05-14 13:10:36,426", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_0039c192f0474d0994a7ab45ab380263.mp3'"}
+{"time": "2025-05-14 13:10:36,927", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:10:36,931", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:10:36,982", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:10:36,992", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:10:38,955", "level": "ERROR", "message": "Transcription error: "}
+{"time": "2025-05-14 13:10:38,955", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:10:52,261", "level": "ERROR", "message": "Transcription error: "}
+{"time": "2025-05-14 13:10:52,261", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:10:58,395", "level": "INFO", "message": "Transcript: offline"}
+{"time": "2025-05-14 13:10:58,396", "level": "INFO", "message": "Processing transcript: offline"}
+{"time": "2025-05-14 13:10:58,397", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:10:58,398", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:10:59,228", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3"}
+{"time": "2025-05-14 13:11:01,373", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3 saved successfully"}
+{"time": "2025-05-14 13:11:12,549", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3'"}
+{"time": "2025-05-14 13:11:13,051", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3'"}
+{"time": "2025-05-14 13:11:13,553", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_73feb38fc6374fe89bbbe1209b6e16cc.mp3'"}
+{"time": "2025-05-14 13:11:14,054", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:11:14,057", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:11:14,112", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:11:14,121", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:11:27,379", "level": "INFO", "message": "Transcript: I want to schedule a 416 by 2025"}
+{"time": "2025-05-14 13:11:27,381", "level": "INFO", "message": "Processing transcript: I want to schedule a 416 by 2025"}
+{"time": "2025-05-14 13:11:27,382", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:11:27,385", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:11:28,421", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3"}
+{"time": "2025-05-14 13:11:32,591", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3 saved successfully"}
+{"time": "2025-05-14 13:11:46,170", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3'"}
+{"time": "2025-05-14 13:11:46,673", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3'"}
+{"time": "2025-05-14 13:11:47,175", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_14d011ccf0b74bb38844e1c4528662ce.mp3'"}
+{"time": "2025-05-14 13:11:47,676", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:11:47,678", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:11:47,694", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:11:47,702", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:12:02,104", "level": "INFO", "message": "Transcript: I want to reset your my appointment counselling session 416 may 2025"}
+{"time": "2025-05-14 13:12:02,105", "level": "INFO", "message": "Processing transcript: I want to reset your my appointment counselling session 416 may 2025"}
+{"time": "2025-05-14 13:12:02,106", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:12:02,108", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:12:02,951", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_01a56457720e439885f3288e33b651e0.mp3"}
+{"time": "2025-05-14 13:12:04,065", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_01a56457720e439885f3288e33b651e0.mp3 saved successfully"}
+{"time": "2025-05-14 13:12:10,436", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_01a56457720e439885f3288e33b651e0.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_01a56457720e439885f3288e33b651e0.mp3'"}
+{"time": "2025-05-14 13:12:10,937", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_01a56457720e439885f3288e33b651e0.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_01a56457720e439885f3288e33b651e0.mp3'"}
+{"time": "2025-05-14 13:12:11,440", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_01a56457720e439885f3288e33b651e0.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_01a56457720e439885f3288e33b651e0.mp3'"}
+{"time": "2025-05-14 13:12:11,940", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:12:11,955", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:12:11,971", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:12:11,978", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:12:26,463", "level": "INFO", "message": "Transcript: can you reschedule it 16 may 2025"}
+{"time": "2025-05-14 13:12:26,464", "level": "INFO", "message": "Processing transcript: can you reschedule it 16 may 2025"}
+{"time": "2025-05-14 13:12:26,465", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:12:26,466", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:12:27,368", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3"}
+{"time": "2025-05-14 13:12:28,534", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3 saved successfully"}
+{"time": "2025-05-14 13:12:33,193", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3'"}
+{"time": "2025-05-14 13:12:33,695", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3'"}
+{"time": "2025-05-14 13:12:34,197", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_6bd84d91c1bf4a44a9b79ed1a5b3b088.mp3'"}
+{"time": "2025-05-14 13:12:34,698", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:12:34,699", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:12:34,748", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:12:34,751", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:12:47,866", "level": "INFO", "message": "Transcript: I told you an object"}
+{"time": "2025-05-14 13:12:47,867", "level": "INFO", "message": "Processing transcript: I told you an object"}
+{"time": "2025-05-14 13:12:47,867", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:12:47,868", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:12:48,686", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3"}
+{"time": "2025-05-14 13:12:50,278", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3 saved successfully"}
+{"time": "2025-05-14 13:12:56,934", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3'"}
+{"time": "2025-05-14 13:12:57,435", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3'"}
+{"time": "2025-05-14 13:12:57,937", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_751f15f0f9dc43a58e3c4518ef09faec.mp3'"}
+{"time": "2025-05-14 13:12:58,438", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:12:58,441", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:12:58,494", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:12:58,501", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:25:25,102", "level": "INFO", "message": "Loading environment variables..."}
+{"time": "2025-05-14 13:25:25,169", "level": "INFO", "message": "MySQL pool initialized"}
+{"time": "2025-05-14 13:25:25,169", "level": "INFO", "message": "Starting HR Assistant..."}
+{"time": "2025-05-14 13:25:25,169", "level": "INFO", "message": "Creating database tables..."}
+{"time": "2025-05-14 13:25:25,169", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:25:25,175", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:25:25,233", "level": "INFO", "message": "Database tables ensured (mysql)"}
+{"time": "2025-05-14 13:25:25,233", "level": "INFO", "message": "Tables created, initializing assistant..."}
+{"time": "2025-05-14 13:25:25,233", "level": "INFO", "message": "Initializing HR_Assistant..."}
+{"time": "2025-05-14 13:25:25,690", "level": "INFO", "message": "Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>"}
+{"time": "2025-05-14 13:25:25,690", "level": "INFO", "message": "Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'"}
+{"time": "2025-05-14 13:25:27,134", "level": "INFO", "message": "HR_Assistant initialized successfully"}
+{"time": "2025-05-14 13:25:27,134", "level": "INFO", "message": "Assistant initialized, starting transcription..."}
+{"time": "2025-05-14 13:25:27,134", "level": "INFO", "message": "Getting employee details..."}
+{"time": "2025-05-14 13:25:29,702", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_918b0ef848f74e729720999e5e525386.mp3"}
+{"time": "2025-05-14 13:25:30,671", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_918b0ef848f74e729720999e5e525386.mp3 saved successfully"}
+{"time": "2025-05-14 13:45:01,832", "level": "INFO", "message": "Loading environment variables..."}
+{"time": "2025-05-14 13:45:01,899", "level": "INFO", "message": "MySQL pool initialized"}
+{"time": "2025-05-14 13:45:01,899", "level": "INFO", "message": "Starting HR Assistant..."}
+{"time": "2025-05-14 13:45:01,899", "level": "INFO", "message": "Creating database tables..."}
+{"time": "2025-05-14 13:45:01,899", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:45:01,902", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:45:01,916", "level": "INFO", "message": "Database tables ensured (mysql)"}
+{"time": "2025-05-14 13:45:01,918", "level": "INFO", "message": "Tables created, initializing assistant..."}
+{"time": "2025-05-14 13:45:01,918", "level": "INFO", "message": "Initializing HR_Assistant..."}
+{"time": "2025-05-14 13:45:02,309", "level": "INFO", "message": "Imported existing <module 'comtypes.gen' from 'D:\\REGex\\Advance python\\hr managment\\venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>"}
+{"time": "2025-05-14 13:45:02,309", "level": "INFO", "message": "Using writeable comtypes cache directory: 'D:\REGex\Advance python\hr managment\venv\Lib\site-packages\comtypes\gen'"}
+{"time": "2025-05-14 13:45:03,740", "level": "INFO", "message": "HR_Assistant initialized successfully"}
+{"time": "2025-05-14 13:45:03,740", "level": "INFO", "message": "Assistant initialized, starting transcription..."}
+{"time": "2025-05-14 13:45:03,740", "level": "INFO", "message": "Getting employee details..."}
+{"time": "2025-05-14 13:45:06,254", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3"}
+{"time": "2025-05-14 13:45:08,904", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3 saved successfully"}
+{"time": "2025-05-14 13:45:12,056", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3'"}
+{"time": "2025-05-14 13:45:12,556", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3'"}
+{"time": "2025-05-14 13:45:13,057", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_d0a41fda96bd425d808d8180d702de53.mp3'"}
+{"time": "2025-05-14 13:45:28,784", "level": "INFO", "message": "Raw name input: aditya"}
+{"time": "2025-05-14 13:45:28,784", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:45:28,785", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:45:28,789", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3"}
+{"time": "2025-05-14 13:45:43,232", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3 saved successfully"}
+{"time": "2025-05-14 13:45:47,382", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3'"}
+{"time": "2025-05-14 13:45:47,884", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3'"}
+{"time": "2025-05-14 13:45:48,386", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_cb60c5335aa64994a38daf9fc56b14c6.mp3'"}
+{"time": "2025-05-14 13:45:48,961", "level": "INFO", "message": "Starting transcription..."}
+{"time": "2025-05-14 13:45:51,449", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:45:55,795", "level": "ERROR", "message": "Transcription error: "}
+{"time": "2025-05-14 13:45:55,795", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:46:10,140", "level": "ERROR", "message": "Transcription error: "}
+{"time": "2025-05-14 13:46:10,140", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:46:25,857", "level": "ERROR", "message": "Transcription error: "}
+{"time": "2025-05-14 13:46:25,858", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3"}
+{"time": "2025-05-14 13:46:27,232", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3 saved successfully"}
+{"time": "2025-05-14 13:46:31,387", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3'"}
+{"time": "2025-05-14 13:46:31,888", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3'"}
+{"time": "2025-05-14 13:46:32,389", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_e44f68c6eb9c42f397ee00580e4c1dbe.mp3'"}
+{"time": "2025-05-14 13:46:41,584", "level": "INFO", "message": "Processing transcript: schedule councling"}
+{"time": "2025-05-14 13:46:41,584", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:46:41,586", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:46:43,647", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3"}
+{"time": "2025-05-14 13:46:45,427", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3 saved successfully"}
+{"time": "2025-05-14 13:46:50,697", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3'"}
+{"time": "2025-05-14 13:46:51,199", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3'"}
+{"time": "2025-05-14 13:46:51,700", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_2304a58d5d3e4f05a38f941fcec7716d.mp3'"}
+{"time": "2025-05-14 13:46:52,202", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:46:52,203", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:46:52,250", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:46:52,252", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:47:05,237", "level": "INFO", "message": "Transcript: to choose one help me to choose any quotes"}
+{"time": "2025-05-14 13:47:05,239", "level": "INFO", "message": "Processing transcript: to choose one help me to choose any quotes"}
+{"time": "2025-05-14 13:47:05,239", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:47:05,240", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:47:06,345", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3"}
+{"time": "2025-05-14 13:47:10,875", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3 saved successfully"}
+{"time": "2025-05-14 13:47:20,652", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3'"}
+{"time": "2025-05-14 13:47:21,153", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3'"}
+{"time": "2025-05-14 13:47:21,654", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_4431cce68fff45a59b36445a427c081c.mp3'"}
+{"time": "2025-05-14 13:47:22,155", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:47:22,156", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:47:22,202", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:47:22,204", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:47:34,641", "level": "INFO", "message": "Transcript: schedule a counselling session for tomorrow morning"}
+{"time": "2025-05-14 13:47:34,642", "level": "INFO", "message": "Processing transcript: schedule a counselling session for tomorrow morning"}
+{"time": "2025-05-14 13:47:34,642", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:47:34,643", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:47:40,808", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:47:40,809", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:47:40,858", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:47:40,861", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:47:53,964", "level": "INFO", "message": "Transcript: yes Python programming"}
+{"time": "2025-05-14 13:47:53,965", "level": "INFO", "message": "Processing transcript: yes Python programming"}
+{"time": "2025-05-14 13:47:53,965", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:47:53,966", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:47:54,638", "level": "INFO", "message": "Saving audio to C:\Users\HP\AppData\Local\Temp\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3"}
+{"time": "2025-05-14 13:47:56,198", "level": "INFO", "message": "Audio file C:\Users\HP\AppData\Local\Temp\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3 saved successfully"}
+{"time": "2025-05-14 13:47:59,940", "level": "WARNING", "message": "Attempt 1 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3'"}
+{"time": "2025-05-14 13:48:00,442", "level": "WARNING", "message": "Attempt 2 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3'"}
+{"time": "2025-05-14 13:48:00,943", "level": "WARNING", "message": "Attempt 3 to remove C:\Users\HP\AppData\Local\Temp\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3 failed: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\HP\\AppData\\Local\\Temp\\hr_assistant_74d0b9332f1d44d9bf29b26fc0f0d89d.mp3'"}
+{"time": "2025-05-14 13:48:01,444", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:48:01,445", "level": "INFO", "message": "Connected to MySQL"}
+{"time": "2025-05-14 13:48:01,453", "level": "INFO", "message": "Saved interaction for employee ID 3"}
+{"time": "2025-05-14 13:48:01,456", "level": "INFO", "message": "Listening for audio input..."}
+{"time": "2025-05-14 13:49:53,170", "level": "INFO", "message": "Transcript: offline head office"}
+{"time": "2025-05-14 13:49:53,171", "level": "INFO", "message": "Processing transcript: offline head office"}
+{"time": "2025-05-14 13:49:53,171", "level": "INFO", "message": "Connecting to database..."}
+{"time": "2025-05-14 13:49:53,172", "level": "INFO", "message": "Connected to MySQL"}
